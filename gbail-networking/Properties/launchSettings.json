@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "gbail_networking": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7276",
+      "launchBrowser": false
+    }
+  }
+}
